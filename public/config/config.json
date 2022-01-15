@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9bae251d1fd8e8d6aa4405984ac2a3f5c6dc45f0",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x9bae251d1fd8e8d6aa4405984ac2a3f5c6dc45f0",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Teacher Bai's Friend",
+  "SYMBOL": "XB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test2-obwkteas6n",
+  "SHOW_BACKGROUND": true
+}
