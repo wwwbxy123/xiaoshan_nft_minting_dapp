@@ -439,8 +439,9 @@ function App() {
             }}
           >
             Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.
+            {CONFIG.NETWORK.NAME} TestNet) and the correct address. Please note:
+            Once you make the purchase, you cannot undo this action. If you don't have enough Test ETH, feel free to claim some at 
+            <br></br><a href="https://faucets.chain.link/rinkeby" style={{color: "white"}}>rinkeby faucets</a>
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
