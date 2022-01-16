@@ -454,6 +454,15 @@ function App() {
             gas limit.
           </s.TextDescription>
           <s.SpacerSmall />
+          <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "var(--secondary-text)",
+            }}
+          >
+            Author
+          </s.TextDescription>
+          <s.SpacerSmall />
           <s.TextDescription>
             <LinkedInContactInfo />
             <YoutubeContactInfo />

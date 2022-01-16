@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Teacher Bai's Friend",
   "SYMBOL": "XB",
-  "MAX_SUPPLY": 10000,
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
