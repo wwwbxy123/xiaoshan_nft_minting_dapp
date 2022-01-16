@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x9bae251d1fd8e8d6aa4405984ac2a3f5c6dc45f0",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x9bae251d1fd8e8d6aa4405984ac2a3f5c6dc45f0",
+  "CONTRACT_ADDRESS": "0xe9e7a1f955e479a27489eb57b03753001e5fc86f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xe9e7a1f955e479a27489eb57b03753001e5fc86f",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test2-obwkteas6n",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/teacherbaifriend-v2",
   "SHOW_BACKGROUND": true
 }
