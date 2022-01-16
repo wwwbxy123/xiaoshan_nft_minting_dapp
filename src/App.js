@@ -254,7 +254,15 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
+            This is a most Futuristic Hack to interact with Teacher Bai's friend and play with Xiao Shan cat in the metaverse ecosystem. 
+            <br></br>
             You can go to different places with Xiao Shan, enjoy unique experience, and have fun!
+             
+            <br></br>
+            <a href="https://showcase.ethglobal.com/nfthack2022/teacher-bai-s-friend" style={{ color: "red" }}>2022 ETHGlobal Hackathon preoject showcase</a>
+            <br></br>
+            <a href="https://testnets.opensea.io/collection/teacherbaifriend-v2" style={{ color: "red" }}>Xiao Shan NFT (XB) collection</a>
+
           </s.TextDescription>
         </s.Container>
         <s.SpacerLarge />
